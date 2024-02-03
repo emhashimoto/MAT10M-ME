@@ -1,0 +1,36 @@
+---
+title: teste
+title-slide-attributes:
+    data-background-image: imagem/fundo_me.png
+    data-background-size: 90%
+    #data-background-opacity: "0.75"
+author: "Elizabeth Mie Hashimoto"
+institute: "Departmento de Acadêmico de Matemática"
+format:
+  revealjs:
+    #incremental: true
+    logo: imagem/utfpr_logo.png
+    #footer: "`emh`"
+    slide-number: false
+    multiplex: false
+    theme: [solarized, tema.scss]
+    show-slide-number: print
+    controls: true
+    width: 1280
+    height: 720
+    css: [custom.css]
+    menu: false
+    chalkboard: false
+execute:
+  echo: true
+---
+
+## Lista
+
+- item 1
+- item 2
+
+::: {.incremental}
+- Eat spaghetti
+- Drink wine
+:::
